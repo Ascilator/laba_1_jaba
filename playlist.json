@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Втюрилась",
+      "singer":"Дора",
+      "duration" : "123",
+      "placeInChart": "57"
+    },
+    {
+      "name": "Дора дура",
+      "singer":"Дора",
+      "duration" : "133",
+      "placeInChart": "1000"
+    },
+    {
+      "name": "Пошлю его на...",
+      "singer":"Дора",
+      "duration" : "183",
+      "placeInChart": "1000"
+    },
+    {
+      "name": "Ахегао",
+      "singer":"МЭЙБИ БЭЙБИ",
+      "duration" : "169",
+      "placeInChart": "1000"
+    },
+
+    {
+      "name": "Cristal МОЁТ",
+      "singer":"MORGENSHTERN",
+      "duration" : "137",
+      "placeInChart": "18"
+    },
+    {
+      "name": "Cadillac",
+      "singer":"MORGENSHTERN",
+      "duration" : "177",
+      "placeInChart": "54"
+    },
+    {
+      "name": "Тлеет",
+      "singer":"SVNV",
+      "duration" : "150",
+      "placeInChart": "63"
+    },
+    {
+      "name": "Бла Бла",
+      "singer": "МЭЙБИ БЭЙБИ",
+      "duration": "157",
+      "placeInChart": "1000"
+    }
+]
